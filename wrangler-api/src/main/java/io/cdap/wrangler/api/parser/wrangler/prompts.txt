@@ -1,0 +1,7 @@
+Prompt 1: Can you help me implement ByteSize and TimeDuration parsing in Java?
+Prompt 2: How do I register new token types in a Wrangler directive?
+Prompt 3: Generate a full implementation of an aggregate-stats directive in CDAP Wrangler.
+Prompt 4: Help me create a test using TestingRig for aggregate-stats.
+Prompt 5: How to install Maven on Windows.
+Prompt 6: How to create and register a directive in CDAP Wrangler.
+Prompt 7: Fixing mvn not recognized error on Windows.

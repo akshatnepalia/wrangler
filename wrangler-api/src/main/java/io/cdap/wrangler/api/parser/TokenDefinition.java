@@ -19,6 +19,9 @@ package io.cdap.wrangler.api.parser;
 import io.cdap.wrangler.api.annotations.PublicEvolving;
 
 import java.io.Serializable;
+import io.cdap.wrangler.api.parser.ByteSize;
+import io.cdap.wrangler.api.parser.TimeDuration;
+
 
 /**
  * The <code>TokenDefinition</code> class represents a definition of token as specified
@@ -52,6 +55,7 @@ public final class TokenDefinition implements Serializable {
     this.label = label;
     this.ordinal = ordinal;
     this.optional = optional;
+    
   }
 
   /**

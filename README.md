@@ -199,6 +199,15 @@ CDAP Users on Slack: [cdap-users team](https://cdap-users.herokuapp.com)
 
 
 ## License and Trademarks
+---
+
+## 🚀 New Feature: `aggregate-stats` Directive
+
+This directive allows aggregation of byte size and time duration fields from input data.
+
+### ✅ Syntax
+
+
 
 Copyright © 2016-2019 Cask Data, Inc.
 
